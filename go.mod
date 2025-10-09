@@ -5,7 +5,7 @@ go 1.24.3
 require (
 	github.com/carlmjohnson/requests v0.24.3
 	github.com/google/go-querystring v1.1.0
-	github.com/kahnwong/cli-base v0.0.0-20250506033212-029722a13b47
+	github.com/kahnwong/cli-base v0.0.0-20250814120046-dde1e03ae9dd
 	github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c
 	github.com/rs/zerolog v1.34.0
 	github.com/sj14/jellyfin-go v0.3.4-0.20250814170641-dc780dafd4c8
