@@ -8,7 +8,7 @@ require (
 	github.com/kahnwong/cli-base v0.0.0-20250506033212-029722a13b47
 	github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c
 	github.com/rs/zerolog v1.34.0
-	github.com/sj14/jellyfin-go v0.3.4-0.20250814170641-dc780dafd4c8
+	github.com/sj14/jellyfin-go v0.4.0
 	github.com/spf13/cobra v1.10.1
 )
 

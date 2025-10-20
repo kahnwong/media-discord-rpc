@@ -280,6 +280,8 @@ github.com/sj14/jellyfin-go v0.3.4-0.20250812155822-329072278e02 h1:1QQE+1OluQME
 github.com/sj14/jellyfin-go v0.3.4-0.20250812155822-329072278e02/go.mod h1:K3ozYgrTZF4403JWijLJyNDlGm+nkNZvfU5YRC+GYYc=
 github.com/sj14/jellyfin-go v0.3.4-0.20250814170641-dc780dafd4c8 h1:1JlOqE7ibn2/RJCZyPLzFd6c1DKtO5mHFJrsSzSXoU4=
 github.com/sj14/jellyfin-go v0.3.4-0.20250814170641-dc780dafd4c8/go.mod h1:K3ozYgrTZF4403JWijLJyNDlGm+nkNZvfU5YRC+GYYc=
+github.com/sj14/jellyfin-go v0.4.0 h1:jT+zxIRC2tbmzP7Vj9ZqvHgjzwtsA7cJHjSS7ED3v2o=
+github.com/sj14/jellyfin-go v0.4.0/go.mod h1:K3ozYgrTZF4403JWijLJyNDlGm+nkNZvfU5YRC+GYYc=
 github.com/spf13/cobra v1.9.1 h1:CXSaggrXdbHK9CF+8ywj8Amf7PBRmPCOJugH954Nnlo=
 github.com/spf13/cobra v1.9.1/go.mod h1:nDyEzZ8ogv936Cinf6g1RU9MRY64Ir93oCnqb9wxYW0=
 github.com/spf13/cobra v1.10.1 h1:lJeBwCfmrnXthfAupyUTzJ/J4Nc1RsHC/mSRU2dll/s=
