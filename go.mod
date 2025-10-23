@@ -1,11 +1,11 @@
 module github.com/kahnwong/media-discord-rpc
 
-go 1.24.3
+go 1.25.1
 
 require (
 	github.com/carlmjohnson/requests v0.25.1
 	github.com/google/go-querystring v1.1.0
-	github.com/kahnwong/cli-base v0.0.0-20250506033212-029722a13b47
+	github.com/kahnwong/cli-base-sops v0.0.0-20250911030916-09b2c1bcd75d
 	github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c
 	github.com/rs/zerolog v1.34.0
 	github.com/sj14/jellyfin-go v0.4.0
@@ -89,6 +89,7 @@ require (
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hashicorp/vault/api v1.16.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/kahnwong/cli-base v0.0.0-20250814120046-dde1e03ae9dd // indirect
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
