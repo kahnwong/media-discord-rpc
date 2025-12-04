@@ -9,7 +9,7 @@ require (
 	github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c
 	github.com/rs/zerolog v1.34.0
 	github.com/sj14/jellyfin-go v0.4.0
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 )
 
 require (
