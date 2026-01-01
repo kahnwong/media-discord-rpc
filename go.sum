@@ -315,6 +315,8 @@ github.com/kahnwong/cli-base-sops v0.0.0-20250911030916-09b2c1bcd75d h1:o86jWb3c
 github.com/kahnwong/cli-base-sops v0.0.0-20250911030916-09b2c1bcd75d/go.mod h1:bCRFf5lu2xktRUgnbC9uCzq0NTYFm6Cr+8zNUmM7N2U=
 github.com/kahnwong/cli-base-sops v0.0.0-20250928214951-d72c29a59f02 h1:j3nGl6SjOHjThR263+7TAVHjCpzeObHWqpCGuhvmKQ8=
 github.com/kahnwong/cli-base-sops v0.0.0-20250928214951-d72c29a59f02/go.mod h1:cbX7ppmSs3z6FRcEVWJoGvJQ4Eo5e53aeN3Pwz0AtA0=
+github.com/kahnwong/cli-base-sops v0.0.0-20260101103628-5a04a14e92ee h1:ra7obJ0vlMt2kvjCnnbQe+pP0UNhkqzZm6MJs3rGfuY=
+github.com/kahnwong/cli-base-sops v0.0.0-20260101103628-5a04a14e92ee/go.mod h1:cbX7ppmSs3z6FRcEVWJoGvJQ4Eo5e53aeN3Pwz0AtA0=
 github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c h1:uxVMuWhJXqQWzD9h8CMXDuESmr5zywGfUjkRbh27SMo=
 github.com/kahnwong/rich-go v0.0.0-20250723095307-73408b97cf8c/go.mod h1:YHu4eag67isQKvvqRO3BJeq5jPhxc4ydaV3KFYRCxB8=
 github.com/keybase/go-keychain v0.0.1 h1:way+bWYa6lDppZoZcgMbYsvC7GxljxrskdNInRtuthU=
